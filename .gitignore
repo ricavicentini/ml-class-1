@@ -1,0 +1,53 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache and log directories
+__pycache__/
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Distribution files
+dist/
+build/
+*.egg-info
+.eggs/
+
+# Python packaging
+*.egg
+*.whl
+*.egg-info/
+.installed.cfg
+
+# macOS system files
+.DS_Store
+
+# Other ignored files
+*.sqlite3
+*.env
+*.test
